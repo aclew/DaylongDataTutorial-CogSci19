@@ -1,8 +1,15 @@
-## CogSci 2019 tutorial materials for _Daylong data: Raw audio to transcript via automated & manual open-science tools_
+## Daylong data: Raw audio to transcript via automated & manual open-science tools
+
+Pre-Conference Tutorial (CogSci 2019; Montreal, Canada)
 
 **Tutorial leaders:** John Bunce (john.bunce@umanitoba.com), Elika Bergelson (elika.bergelson@duke.edu), Anne Warlaumont (warlaumont@ucla.edu), & Marisa Casillas (marisa.casillas@mpi.nl)
 
 ### Slides:
+* Pre-workshop preparation:
+    * [Install ELAN](https://tla.mpi.nl/tools/tla-tools/elan/download/)
+    * [Download the DAS ELAN templates](https://github.com/marisacasillas/DARCLE-AnnSchDev/tree/master/ACLEW/ACLEW-basic-template)
+    * [Install DiViMe](https://docs.google.com/presentation/d/1G9lRAFF0TXxyy9cLzw0EpxvBeyr6H88DXhG9Sen_B7Y/edit?usp=sharing)
+    * Optional: Bring a few raw audio files (each <5 min) as a sample of your data for the demonstrations. Make sure the clips are okay for sharing with other workshop participants!
 * Part 1: Pre-data collection concerns
 * Part 2: Manual annotation
 * Part 3: Automated annotation
