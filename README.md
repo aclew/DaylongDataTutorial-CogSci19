@@ -2,7 +2,7 @@
 
 Pre-Conference Tutorial (CogSci 2019; Montreal, Canada)
 
-**Tutorial leaders:** John Bunce (john.bunce@umanitoba.com), Elika Bergelson (elika.bergelson@duke.edu), Anne Warlaumont (warlaumont@ucla.edu), & Marisa Casillas (marisa.casillas@mpi.nl)
+**Tutorial leaders:** John Bunce (john.bunce@umanitoba.com), Elika Bergelson (elika.bergelson@duke.edu), [Anne S. Warlaumont](https://www.annewarlaumont.org/) (warlaumont@ucla.edu), & Marisa Casillas (marisa.casillas@mpi.nl)
 
 ### Slides:
 * Pre-workshop preparation:
