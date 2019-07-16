@@ -1,0 +1,173 @@
+150443	151111	C	FA1	qu√© le vas a hacer	5	/qu/√/© /le /vas /a /ha/cer 	8
+149313	150030	C	FA1	pero pas√≥	2	/pe/ro /pa/s√/≥ 	5
+147313	148986	C	FA1	y no es una asquerosidad	5	 /no /es /u/na /as/qu/e/ro/si/dad 	10
+139593	139746	C	FA1	lis	1	/lis 	1
+138110	139350	C	FA1	ah ya est√° se muri√≥	5	/ah /ya /es/t√/° /se /mu/ri/√/≥ 	10
+134010	137009	B	FA1	es un cl√°sico igual eh esto de la mosca en la leche es un cl√°sico	15	/es /un /l√/°/si/co /i/gu/al /eh /es/to /de /la /mos/ca /en /la /le/che /es /un /l√/°/si/co 	26
+130403	131105	C	FA1	la voy a sacar	4	/la /voy /a /sa/car 	5
+128260	129501	C	FA1	ya est√° mir√° la voy a sacar	7	/ya /es/t√/° /mi/r√/° /la /voy /a /sa/car 	12
+155410	157390	C	FA1	esta tuvo mosca no te va a gustar	8	/es/ta /tu/vo /mos/ca /no /te /va /a /gus/tar 	12
+152950	155410	C	FA1	s√≠	1	/s√/≠ 	2
+166851	167706	C	FA1	bueno hijo	2	/bu/e/no /hi/jo 	5
+167857	168887	C	FA1	ahora te lo lava	4	/a/ho/ra /te /lo /la/va 	7
+160175	160600	C	FA1	bue	1	/bu/e 	2
+160993	164100	C	FA1	te voy a hacer una igualita pero sin mosca Tit√≠	10	/te /voy /a /ha/cer /u/na /i/gu/a/li/ta /pe/ro /sin /mos/ca /ti/t√/≠ 	20
+174420	175673	C	FA1	bueno Cuchi	2	/bu/e/no /cu/chi 	5
+177666	179600	C	FA1	Titi Titi Titi Titi	4	/ti/ti /ti/ti /ti/ti /ti/ti 	8
+169373	169606	C	FA1	da	1	/da 	1
+170050	173054	C	FA1	s√≠ ah√≠ Malvina te lo lava y lo cambiamos de vaso	11	/s√/≠ /a/h√/≠ /mal/vi/na /te /lo /la/va  /lo /cam/bi/a/mos /de /va/so 	20
+179611	180507	C	FA1	tranquilo	1	/tran/qu/i/lo 	4
+180519	181140	C	FA1	hijito	1	/hi/ji/to 	3
+205113	206420	C	FA1	listo Malvina lo lav√≥	4	/lis/to /mal/vi/na /lo /la/v√/≥ 	9
+203350	204302	C	FA1	ah√≠ est√° Malvina	3	/a/h√/≠ /es/t√/° /mal/vi/na 	9
+196153	198210	C	FA1	bueno hijo ahora te lo doy en ese vaso	9	/bu/e/no /hi/jo /a/ho/ra /te /lo /doy /en /e/se /va/so 	16
+193896	195250	C	FA1	qu√© pas√≥	2	/qu/√/© /pa/s√/≥ 	6
+200479	202902	C	FA1	no siempre no siempre	4	/no /si/em/pre /no /si/em/pre 	8
+199705	200479	C	FA1	s√≠ bue	2	/s√/≠ /bu/e 	4
+183694	185529	C	FA1	ya lo entendimos ya entendimos	5	/ya /lo /en/ten/di/mos /ya /en/ten/di/mos 	11
+181333	181750	C	FA1	par√°	1	/pa/r√/° 	3
+188804	191101	C	FA1	yo te estaba dando tu vaso especial de Angry Birds	10	/yo /te /es/ta/ba /dan/do /tu /va/so /es/pe/ci/al /de /angry /birds 	17
+185593	188046	C	FA1	igual ese vaso es un vaso com√∫n	7	/i/gu/al /e/se /va/so /es /un /va/so /co/m√/∫n 	14
+110092	110528	C	FA1	es a	2	/es /a 	2
+230748	233213	C	FA1	la mosca tampoco se quer√≠a caer adentro de la leche	10	/la /mos/ca /tam/po/co /se /qu/e/r√/≠/a /ca/er /a/den/tro /de /la /le/che 	21
+234320	234910	C	FA1	ah tom√°	2	/ah /to/m√/° 	4
+206440	207010	C	FA1	listo	1	/lis/to 	2
+207326	207576	C	FA1	ya est√°	2	/ya /es/t√/° 	4
+208950	209900	C	FA1	te lo estoy por dar	5	/te /lo /es/toy /por /dar 	6
+209900	211410	C	FA1	sentate que ya te la llevo	6	/sen/ta/te /qu/e /ya /te /la /lle/vo 	10
+213953	216106	C	FA1	s√≠ si te sent√°s te la llevo dale	8	/s√/≠ /si /te /sen/t√/°s /te /la /lle/vo /da/le 	13
+223200	223505	A	FA1		0		0
+226200	227460	C	FA1	bueno Cuchi	2	/bu/e/no /cu/chi 	5
+228966	230740	C	FA1	no	1	/no 	1
+92829	95326	C	FA1	se meti√≥ la mosca en tu leche no lo puedo creer	11	/se /me/ti/√/≥ /la /mos/ca /en /tu /le/che /no /lo /pu/e/do /cre/er 	19
+95704	97859	C	FA1	primera vez en la vida que veo este asco	9	/pri/me/ra /vez /en /la /vi/da /qu/e /ve/o /es/te /as/co 	16
+76330	76743	C	FA1	a ver	2	/a /ver 	2
+78213	79426	C	FA1	ah ah√≠ s√≠	3	/ah /a/h√/≠ /s√/≠ 	6
+72400	72733	C	FA1	y de	2	 /de 	1
+73773	74886	C	FA1	ah√≠ qui√©n est√° ah√≠	4	/a/h√/≠ /qu/i/√/©n /es/t√/° /a/h√/≠ 	13
+85997	87295	C	FA1	y esto	2	 /es/to 	2
+89005	90607	C	FA1	un	1	/un 	1
+79426	81493	C	FA1	ah√≠ est√° la vaca y la leche	7	/a/h√/≠ /es/t√/° /la /va/ca  /la /le/che 	12
+81766	83373	C	FA1	la guardan en este tarro viste	6	/la /gu/ar/dan /en /es/te /tar/ro /vis/te 	11
+265510	266010	C	FA1	qu√© mi amor	3	/qu/√/© /mi /a/mor 	6
+262660	264310	C	FA1	qui√©n est√° haciendo sonar el chancho	6	/qu/i/√/©n /es/t√/° /ha/ci/en/do /so/nar /el /chan/cho 	16
+241670	242614	C	FA1	buen ya est√°	3	/bu/en /ya /es/t√/° 	6
+238576	240255	C	FA1	no te pongas tan loco Cuchi	6	/no /te /pon/gas /tan /lo/co /cu/chi 	9
+237740	238426	C	FA1	bueno	1	/bu/e/no 	3
+235110	235820	C	FA1	qu√© lindo	2	/qu/√/© /lin/do 	5
+259860	261230	C	FA1	ay qu√© lindo chancho	4	/ay /qu/√/© /lin/do /chan/cho 	8
+256160	256550	C	FA1	ahist√°	1	/a/his/t√/° 	4
+253000	254804	C	FA1	y s√≠ ya vi que te enoj√°s un mont√≥n	9	 /s√/≠ /ya /vi /qu/e /te /e/no/j√/°s /un /mon/t√/≥n 	15
+244503	246323	C	FA1	ahist√° ya no va a entrar ninguna mosca	8	/a/his/t√/° /ya /no /va /a /en/trar /nin/gu/na /mos/ca 	15
+52990	54531	C	FA1	est √©stas te gustan	4	/est /√/©s/tas /te /gus/tan 	7
+50373	50957	C	FA1	qu√© mi amor	3	/qu/√/© /mi /a/mor 	6
+58435	60970	C	FA1	p√≠o si los pollitos	4	/p√/≠/o /si /los /po/lli/tos 	8
+54790	55431	C	FA1	y este qui√©n es	4	 /es/te /qu/i/√/©n /es 	7
+44992	46160	C	FA1	te gusta este librito	4	/te /gus/ta /es/te /lib/ri/to 	8
+39400	40330	C	FA1	no esa es la leche	5	/no /e/sa /es /la /le/che 	7
+47865	48229	C	FA1	bueno	1	/bu/e/no 	3
+47153	47453	C	FA1	s√≠	1	/s√/≠ 	2
+67746	71291	C	FA1	muy bien el chancho	4	/muy /bi/en /el /chan/cho 	6
+66570	67280	C	FA1		0		0
+273681	275402	C	FA1	el paja el pollito este te va a comer eh	10	/el /pa/ja /el /po/lli/to /es/te /te /va /a /co/mer /eh 	15
+275402	275719	C	FA1	am	1	/am 	1
+271233	272305	C	FA1	ac√° est√° el p√≠o p√≠o	5	/a/c√/° /es/t√/° /el /p√/≠/o /p√/≠/o 	13
+273210	273681	C	FA1	ah s√≠	2	/ah /s√/≠ 	3
+269493	270207	C	FA1	ah√≠	1	/a/h√/≠ 	3
+270207	271233	C	FA1	muy bien	2	/muy /bi/en 	3
+267060	267616	C	FA1	p√≠o p√≠o	2	/p√/≠/o /p√/≠/o 	6
+267616	268714	C	FA1	ad√≥nde est√° el p√≠o p√≠o	5	/a/d√/≥n/de /es/t√/° /el /p√/≠/o /p√/≠/o 	14
+276257	276447	C	FA1	am	1	/am 	1
+278130	280190	C	FA1	mm mir√° est√° la vaca tambi√©n	6	 /mi/r√/° /es/t√/° /la /va/ca /tam/bi/√/©n 	13
+283889	284415	C	FA1	ahist√°	1	/a/his/t√/° 	4
+281773	282186	C	FA1	a ver	2	/a /ver 	2
+295553	296213	A	FA1		0		0
+284471	287058	C	FA1	ya est√° los puse juntos a la vaca y al pollito	11	/ya /es/t√/° /los /pu/se /jun/tos /a /la /va/ca  /al /po/lli/to 	17
+299250	300410	A	FA1		0		0
+296413	296706	A	FA1		0		0
+8220	9405	A	FA1		0		0
+34136	36490	C	FA1	agua s√≠ la vaca est√° tomando agua	7	/a/gu/a /s√/≠ /la /va/ca /es/t√/° /to/man/do /a/gu/a 	17
+36770	37920	C	FA1	de ac√° del bebedero	4	/de /a/c√/° /del /be/be/de/ro 	9
+5378	5686	A	FA1		0		0
+14340	15320	C	FA1	a ver	2	/a /ver 	2
+18772	19440	C	FA1	qu√© viste	2	/qu/√/© /vis/te 	5
+22870	23463	C	FA1	qu√© viste	2	/qu/√/© /vis/te 	5
+25620	26560	C	FA1	un caballo	2	/un /ca/ba/llo 	4
+26960	27282	C	FA1	mir√°	1	/mi/r√/° 	3
+28400	29920	C	FA1	un caballito hace iii	4	/un /ca/ba/lli/to /ha/ce /i/i/i 	10
+31380	32950	C	FA1	mm	1	 	0
+33061	33285	C	FA1	qu√©	1	/qu/√/© 	3
+447	1502	A	FA1		0		0
+110760	111393	C	FA1	es as√≠	2	/es /a/s√/≠ 	4
+113251	113855	C	FA1	no	1	/no 	1
+116396	118311	C	FA1	te voy a te voy a hacer una leche rica	10	/te /voy /a /te /voy /a /ha/cer /u/na /le/che /ri/ca 	14
+118810	121000	C	FA1	te gusta una leche que tuvo mosca	7	/te /gus/ta /u/na /le/che /qu/e /tu/vo /mos/ca 	13
+98650	101843	C	FA1	no importa Cuchi te la tiramos toda la leche y hacemos otra	12	/no /im/por/ta /cu/chi /te /la /ti/ra/mos /to/da /la /le/che  /ha/ce/mos /o/tra 	21
+101966	102797	C	FA1	s√≠ hacemos otra	3	/s√/≠ /ha/ce/mos /o/tra 	7
+104826	106660	C	FA1	no	1	/no 	1
+106776	109136	C	FA1	te voy a hacer una leche rica nueva	8	/te /voy /a /ha/cer /u/na /le/che /ri/ca /nu/e/va 	14
+121706	122786	C	FA1	bueno por eso te voy a	6	/bu/e/no /por /e/so /te /voy /a 	9
+126456	128252	C	FA1	bueno Cuchi es un asco	5	/bu/e/no /cu/chi /es /un /as/co 	9
+164602	166707	A	MC1		0		0
+159904	161403	A	MC1		0		0
+172707	174408	A	MC1		0		0
+167806	171906	A	MC1		0		0
+179893	183653	A	MC1		0		0
+175204	178403	A	MC1		0		0
+191305	196436	A	MC1		0		0
+188893	189900	A	MC1		0		0
+203246	205480	A	MC1		0		0
+197893	200000	A	MC1		0		0
+110976	112954	A	MC1		0		0
+110006	110710	A	MC1		0		0
+91393	92280	P	MC1		0		0
+109225	109792	A	MC1		0		0
+103504	106171	A	MC1		0		0
+102733	103100	A	MC1		0		0
+97930	98990	A	MC1		0		0
+240005	242707	A	MC1		0		0
+246766	247050	U	MC1		0		0
+235408	236360	A	MC1		0		0
+236490	238281	A	MC1		0		0
+224745	226403	A	MC1		0		0
+226990	228955	A	MC1		0		0
+207198	210254	A	MC1		0		0
+212756	214337	A	MC1		0		0
+248070	252966	A	MC1		0		0
+151414	153204	A	MC1		0		0
+157557	159809	A	MC1		0		0
+113603	116053	A	MC1		0		0
+121198	121508	A	MC1		0		0
+122607	126348	A	MC1		0		0
+131285	133681	A	MC1		0		0
+138211	138430	A	MC1		0		0
+141397	141707	A	MC1		0		0
+142402	144064	A	MC1		0		0
+144603	147906	A	MC1		0		0
+296635	297110	A	FA2		0		0
+293840	294213	A	FA2		0		0
+6606	8700	A	FA2		0		0
+3596	5209	A	FA2		0		0
+100726	101973	B	FA2	y eh hacemo una nueva	5	 /eh /ha/ce/mo /u/na /nu/e/va 	9
+226714	227210	C	FA2		0		0
+221650	222340	U	FA2		0		0
+184103	184911	C	FA2	s√≠ ya est√°	3	/s√/≠ /ya /es/t√/° 	6
+171520	172053	C	FA2	te lo lavo	3	/te /lo /la/vo 	4
+166893	167906	C	FA2	ah bueno el vaso	4	/ah /bu/e/no /el /va/so 	7
+153292	153603	C	FA2	si	1	/si 	1
+140271	140756	C	FA2	la ves ah√≠	3	/la /ves /a/h√/≠ 	5
+294632	295632	A	FA2		0		0
+300972	301510	A	FA2		0		0
+135602	135806	A	FA2		0		0
+138812	139408	C	FA2		0		0
+116311	116820	C	FA2	ac√° hay m√°s	3	/a/c√/° /hay /m√/°s 	6
+118060	119030	C	FA2	una leche nueva	3	/u/na /le/che /nu/e/va 	7
+121800	122460	U	FA2		0		0
+128880	129740	C	FA2	mir√°	1	/mi/r√/° 	3
+109240	109720	C	FA2	no no	2	/no /no 	2
+113890	114500	C	FA2	no	1	/no 	1
+115120	115560	C	FA2	ah√≠ mir√°	2	/a/h√/≠ /mi/r√/° 	6
+115560	116166	C	FA2	ac√° hay m√°s	3	/a/c√/° /hay /m√/°s 	6
+228640	229940	C	FA2	bueno ah√≠ cierro la ventana	5	/bu/e/no /a/h√/≠ /ci/er/ro /la /ven/ta/na 	13
+97397	97917	A	FA2		0		0
+297298	298458	A	FA2		0		0

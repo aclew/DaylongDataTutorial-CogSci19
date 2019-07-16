@@ -1,0 +1,107 @@
+296734	297674	B	FA1		0		0
+185513	186000	A	FA1		0		0
+197961	202209	A	FA1		0		0
+206138	207265	C	FA1	what's wrong	2	/at's /ong 	2
+207878	209983	C	FA1	crazy baby you wanna drink	5	/azy /baby /yo/u /wan/na /ink 	7
+169121	170541	C	FA1		0		0
+171856	173867	C	FA1		0		0
+180447	181662	A	FA1		0		0
+183756	184563	A	FA1		0		0
+222171	222966	B	FA1	quite	1	/qu/i/te 	3
+223618	225104	B	FA1	the dramatic actor	3	/e /a/ma/tic /ac/tor 	6
+240900	242325	A	FA1		0		0
+238867	239651	A	FA1		0		0
+289199	294690	B	FA1	you're like I entertain myself	5	/yo/u'r/e /lik/e /i /en/ter/ta/in /self 	11
+87961	89674	A	FA1		0		0
+77436	78806	C	FA1	say mamama	2	/say /ma/ma/ma 	4
+76080	77154	C	FA1	mama	1	/ma/ma 	2
+44830	45707	U	FA1		0		0
+28198	29502	U	FA1		0		0
+25760	27939	C	FA1		0		0
+13260	14400	B	FA1	no	1	/no 	1
+4596	5165	C	FA1	good job	2	/go/od /job 	3
+247486	248988	A	FA1		0		0
+245200	246624	A	FA1		0		0
+252895	253359	C	FA1	y'know	1	/now 	1
+250679	250944	A	FA1		0		0
+237038	237596	A	FA1		0		0
+228160	234171	C	FA1	Theodore we're gonna go check the mail today because Grams said she sent you a package	16	/e/o/dor/e /we'r/e /gon/na /go /eck /e /ma/il /to/day /be/ca/u/se /ams /sa/id /e /sent /yo/u /a /pack/a/ge 	30
+124519	125160	C	FA1	you're my	2	/yo/u'r/e  	3
+122939	124171	C	FA1	try try	2	  	0
+270613	272198	A	FA1		0		0
+287380	288780	B	FA1		0		0
+298364	300090	B	FA1	I put it in my mo	6	/i /put /it /in  /mo 	5
+258232	259961	C	FA1	now Mom's just chopped liver	5	/now /mom's /just /op/ped /li/ver 	7
+261801	263071	C	FA1	compared to you	3	/com/par/ed /to /yo/u 	6
+255685	257679	C	FA1	Mom valentine's day packages	4	/mom /va/len/ti/ne's /day /pack/a/ges 	9
+253668	254861	C	FA1	Grams used to mail	4	/ams /u/sed /to /ma/il 	6
+7176	7977	C	MA1	bababa	1	/ba/ba/ba 	3
+267176	267563	A	MA1		0		0
+267701	268983	A	MA1		0		0
+226360	227360	B	MA1	quite quite	2	/qu/i/te /qu/i/te 	6
+3080	3889	C	MA1	bababa	1	/ba/ba/ba 	3
+186497	187165	A	MA1		0		0
+187767	188513	A	MA1		0		0
+190381	190955	A	MA1		0		0
+194287	194889	A	MA1		0		0
+195143	195906	A	MA1		0		0
+224390	225861	C	MA1	quite the dramatic baby	4	/qu/i/te /e /a/ma/tic /baby 	8
+234259	234944	A	MA1		0		0
+240055	240397	A	MA1		0		0
+8800	9400	C	MA1	can you say	3	/can /yo/u /say 	4
+269723	270193	A	MA1		0		0
+269049	269668	A	MA1		0		0
+275104	275790	C	MA1	ah	1	/ah 	1
+270303	270895	A	MA1		0		0
+277508	278215	C	MA1	Theodoro	1	/e/o/dor/o 	4
+276027	276867	C	MA1	Theodoro	1	/e/o/dor/o 	4
+294806	296469	B	MA1	I dropped a blueberry I pick it up	8	/i /op/ped /a /blu/e/berry /i /pick /it /up 	11
+292243	293563	B	MA1		0		0
+106270	107453	C	MA1	yeah	1	/ye/ah 	2
+105165	105662	C	MA1	yeah	1	/ye/ah 	2
+38607	39149	C	MA1	wah[	1	/wah[ 	1
+13911	14867	C	MA1	mamama	1	/ma/ma/ma 	3
+12745	13171	C	MA1	no	1	/no 	1
+10132	11143	C	MA1	mamama	1	/ma/ma/ma 	3
+90574	93386	B	MA1	say what I want and I stomp my feet	9	/say /at /i /want /and /i /stomp  /fe/et 	9
+69712	72535	C	MA1	ba ba ba ba	4	/ba /ba /ba /ba 	4
+67447	68298	C	MA1	can you say	3	/can /yo/u /say 	4
+61149	62403	C	MA1	babababa	1	/ba/ba/ba/ba 	4
+54182	55270	C	CHI		0		0
+52370	53602	N	CHI		0		0
+74044	75325	C	CHI		0		0
+65861	66980	N	CHI		0		0
+44823	46408	N	CHI		0		0
+42071	43861	C	CHI		0		0
+50110	51933	C	CHI		0		0
+46895	49469	N	CHI		0		0
+100325	104475	C	CHI		0		0
+82558	85458	C	CHI		0		0
+80629	82259	C	CHI		0		0
+289209	290707	N	CHI		0		0
+288070	288828	L	CHI		0		0
+210453	217011	Y	CHI		0		0
+206845	208613	N	CHI		0		0
+202729	205828	C	CHI		0		0
+199867	200475	N	CHI		0		0
+286104	286580	L	CHI		0		0
+282720	285303	L	CHI		0		0
+243745	244331	N	CHI		0		0
+217690	220520	N	CHI		0		0
+98165	99950	C	CHI		0		0
+36878	37392	C	CHI		0		0
+40088	41596	C	CHI		0		0
+8453	9795	N	CHI		0		0
+12419	13502	N	CHI		0		0
+1740	2994	C	CHI		0		0
+5440	6712	N	CHI		0		0
+192541	194480	C	CHI		0		0
+197983	198486	N	CHI		0		0
+86187	87563	C	CHI		0		0
+91000	93861	C	CHI		0		0
+94342	95955	C	CHI		0		0
+96620	97450	C	CHI		0		0
+145718	146055	N	CHI		0		0
+158090	158607	N	CHI		0		0
+167900	168419	N	CHI		0		0
+170839	171801	N	CHI		0		0

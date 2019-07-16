@@ -1,0 +1,173 @@
+150443	151111	C	FA1	qué le vas a hacer	5	kw- - - lax- vaxz- ax- hheys-er- 	8
+149313	150030	C	FA1	pero pasó	2	per-ow- paaz- - - 	5
+147313	148986	C	FA1	y no es una asquerosidad	5	way- now- ehs- uwn-ax- axs-krows-axd-aed- 	9
+139593	139746	C	FA1	lis	1	lihs- 	1
+138110	139350	C	FA1	ah ya está se murió	5	aa- yaa- axs-teyt- - - sawth-iyst- muhr-iy- - - 	12
+134010	137009	B	FA1	es un clásico igual eh esto de la mosca en la leche es un clásico	15	ehs- ahn- siy- ehl- - - ehs- ay- siy- ow- axg-waxl- eh- axs-tow- diy- laa- mows-kax- ehn- laa- lehsh- ehs- ahn- siy- ehl- - - ehs- ay- siy- ow- 	32
+130403	131105	C	FA1	la voy a sacar	4	laa- voy- ax- saek-aar- 	5
+128260	129501	C	FA1	ya está mirá la voy a sacar	7	yaa- axs-teyt- - - mihr- - - laa- voy- ax- saek-aar- 	13
+155410	157390	C	FA1	esta tuvo mosca no te va a gustar	8	ehs-tax- tuwv-ow- mows-kax- now- tiy- vax- ax- gahs-taar- 	12
+152950	155410	C	FA1	sí	1	ehs- - - 	3
+166851	167706	C	FA1	bueno hijo	2	bweyn-ow- hhiyy-ow- 	4
+167857	168887	C	FA1	ahora te lo lava	4	aahh-ao-er-ax- tiy- low- laav-ax- 	8
+160175	160600	C	FA1	bue	1	bweh- 	1
+160993	164100	C	FA1	te voy a hacer una igualita pero sin mosca Tití	10	tiy- voy- ax- hheys-er- uwn-ax- axg-wael-iyt-ax- per-ow- sihn- mows-kax- tiht- - - 	19
+174420	175673	C	FA1	bueno Cuchi	2	bweyn-ow- kuwch-iy- 	4
+177666	179600	C	FA1	Titi Titi Titi Titi	4	tiyt-iy- tiyt-iy- tiyt-iy- tiyt-iy- 	8
+169373	169606	C	FA1	da	1	daa- 	1
+170050	173054	C	FA1	sí ahí Malvina te lo lava y lo cambiamos de vaso	11	ehs- - - aa- - - maxlv-iyn-ax- tiy- low- laav-ax- way- low- kaemb-iy-aam-ows- diy- vaas-ow- 	22
+179611	180507	C	FA1	tranquilo	1	traengk-wiyl-ow- 	3
+180519	181140	C	FA1	hijito	1	hhihjh-iyt-ow- 	3
+205113	206420	C	FA1	listo Malvina lo lavó	4	lihs-tow- maxlv-iyn-ax- low- laav- - - 	9
+203350	204302	C	FA1	ahí está Malvina	3	aa- - - axs-teyt- - - maxlv-iyn-ax- 	10
+196153	198210	C	FA1	bueno hijo ahora te lo doy en ese vaso	9	bweyn-ow- hhiyy-ow- aahh-ao-er-ax- tiy- low- doy- ehn- ehz- vaas-ow- 	15
+193896	195250	C	FA1	qué pasó	2	kw- - - paaz- - - 	6
+200479	202902	C	FA1	no siempre no siempre	4	now- siymp-er- now- siymp-er- 	6
+199705	200479	C	FA1	sí bue	2	ehs- - - bweh- 	4
+183694	185529	C	FA1	ya lo entendimos ya entendimos	5	yaa- low- ehnt-ehnd-iym-owz- yaa- ehnt-ehnd-iym-owz- 	11
+181333	181750	C	FA1	pará	1	paar- - - 	3
+188804	191101	C	FA1	yo te estaba dando tu vaso especial de Angry Birds	10	yow- tiy- axs-taab-ax- daend-ow- tuw- vaas-ow- ehs-piysh-axl- diy- aengg-riy- berdz- 	17
+185593	188046	C	FA1	igual ese vaso es un vaso común	7	ihg-waxl- ehz- vaas-ow- ehs- ahn- vaas-ow- siy- ow- ehm- - - ehn- 	15
+110092	110528	C	FA1	es a	2	ehs- ax- 	2
+230748	233213	C	FA1	la mosca tampoco se quería caer adentro de la leche	10	laa- mows-kax- taemp-owk-ow- sawth-iyst- kyuw- yuw- iy- aar- - - ey- kr- aed-axnt-row- diy- laa- lehsh- 	22
+234320	234910	C	FA1	ah tomá	2	aa- taam- - - 	4
+206440	207010	C	FA1	listo	1	lihs-tow- 	2
+207326	207576	C	FA1	ya está	2	yaa- axs-teyt- - - 	5
+208950	209900	C	FA1	te lo estoy por dar	5	tiy- low- axs-toy- paor- daar- 	6
+209900	211410	C	FA1	sentate que ya te la llevo	6	sehnt-eyt- kyuw- yaa- tiy- laa- lehv-ow- 	8
+213953	216106	C	FA1	sí si te sentás te la llevo dale	8	ehs- - - siy- tiy- ehs- iy- ehn- tiy- - - ehs- tiy- laa- lehv-ow- deyl- 	17
+223200	223505	A	FA1		0		0
+226200	227460	C	FA1	bueno Cuchi	2	bweyn-ow- kuwch-iy- 	4
+228966	230740	C	FA1	no	1	now- 	1
+92829	95326	C	FA1	se metió la mosca en tu leche no lo puedo creer	11	sawth-iyst- meht-iy- - - laa- mows-kax- ehn- tuw- lehsh- now- low- puwd-ow- krihr- 	17
+95704	97859	C	FA1	primera vez en la vida que veo este asco	9	praym-ehr-ax- vehz- ehn- laa- vayd-ax- kyuw- viy-ow- ehst- axs-kow- 	14
+76330	76743	C	FA1	a ver	2	ax- ver- 	2
+78213	79426	C	FA1	ah ahí sí	3	aa- aa- - - ehs- - - 	7
+72400	72733	C	FA1	y de	2	way- diy- 	2
+73773	74886	C	FA1	ahí quién está ahí	4	aa- - - kyuw- yuw- ay- - - ehn- axs-teyt- - - aa- - - 	16
+85997	87295	C	FA1	y esto	2	way- axs-tow- 	3
+89005	90607	C	FA1	un	1	ahn- 	1
+79426	81493	C	FA1	ahí está la vaca y la leche	7	aa- - - axs-teyt- - - laa- vaek-ax- way- laa- lehsh- 	13
+81766	83373	C	FA1	la guardan en este tarro viste	6	laa- gaar-daxn- ehn- ehst- taar-ow- vihst- 	8
+265510	266010	C	FA1	qué mi amor	3	kw- - - miy- aem-er- 	6
+262660	264310	C	FA1	quién está haciendo sonar el chancho	6	kyuw- yuw- ay- - - ehn- axs-teyt- - - hhaek-ax-ehnd-ow- sown-axr- ehl- chaench-ow- 	19
+241670	242614	C	FA1	buen ya está	3	byuw-axn- yaa- axs-teyt- - - 	7
+238576	240255	C	FA1	no te pongas tan loco Cuchi	6	now- tiy- paangg-axz- taen- lowk-ow- kuwch-iy- 	9
+237740	238426	C	FA1	bueno	1	bweyn-ow- 	2
+235110	235820	C	FA1	qué lindo	2	kw- - - lihnd-ow- 	5
+259860	261230	C	FA1	ay qué lindo chancho	4	ey- kw- - - lihnd-ow- chaench-ow- 	8
+256160	256550	C	FA1	ahistá	1	aa-ihst- - - 	4
+253000	254804	C	FA1	y sí ya vi que te enojás un montón	9	way- ehs- - - yaa- viy- kyuw- tiy- iy- ehn- ow- jhey- - - ehs- ahn- ehm- ow- ehn- tiy- - - ehn- 	23
+244503	246323	C	FA1	ahistá ya no va a entrar ninguna mosca	8	aa-axst- - - yaa- now- vax- ey- ehnt-raar- nihngg-uwn-ax- mows-kax- 	15
+52990	54531	C	FA1	est éstas te gustan	4	axs-teyt- - - staez- tiy- gahs-taxn- 	8
+50373	50957	C	FA1	qué mi amor	3	kw- - - miy- aem-er- 	6
+58435	60970	C	FA1	pío si los pollitos	4	piy- - - ow- siy- lows- paal-iyt-ows- 	9
+54790	55431	C	FA1	y este quién es	4	way- ehst- kyuw- yuw- ay- - - ehn- ehs- 	9
+44992	46160	C	FA1	te gusta este librito	4	tiy- gahs-tax- ehst- layb-riyt-ow- 	7
+39400	40330	C	FA1	no esa es la leche	5	now- ehs-ax- ehs- laa- lehsh- 	6
+47865	48229	C	FA1	bueno	1	bweyn-ow- 	2
+47153	47453	C	FA1	sí	1	ehs- - - 	3
+67746	71291	C	FA1	muy bien el chancho	4	miy- biyn- ehl- chaench-ow- 	5
+66570	67280	C	FA1		0		0
+273681	275402	C	FA1	el paja el pollito este te va a comer eh	10	ehl- paay-ax- ehl- paal-iyt-ow- ehst- tiy- vax- ax- kahm-er- eh- 	14
+275402	275719	C	FA1	am	1	aem- 	1
+271233	272305	C	FA1	acá está el pío pío	5	eys-iy- - - axs-teyt- - - ehl- piy- - - ow- piy- - - ow- 	17
+273210	273681	C	FA1	ah sí	2	aa- ehs- - - 	4
+269493	270207	C	FA1	ahí	1	aa- - - 	3
+270207	271233	C	FA1	muy bien	2	miy- biyn- 	2
+267060	267616	C	FA1	pío pío	2	piy- - - ow- piy- - - ow- 	8
+267616	268714	C	FA1	adónde está el pío pío	5	ey- diy- - - ehn- diy- iy- axs-teyt- - - ehl- piy- - - ow- piy- - - ow- 	20
+276257	276447	C	FA1	am	1	aem- 	1
+278130	280190	C	FA1	mm mirá está la vaca también	6	ehm- ehm- mihr- - - axs-teyt- - - laa- vaek-ax- tiy- ey- ehm- biy- ay- - - ehn- 	20
+283889	284415	C	FA1	ahistá	1	aa-ihst- - - 	4
+281773	282186	C	FA1	a ver	2	ax- ver- 	2
+295553	296213	A	FA1		0		0
+284471	287058	C	FA1	ya está los puse juntos a la vaca y al pollito	11	yaa- axs-teyt- - - lows- pyuwz- jhahnt-owz- ax- laa- vaek-ax- way- ael- paal-iyt-ow- 	18
+299250	300410	A	FA1		0		0
+296413	296706	A	FA1		0		0
+8220	9405	A	FA1		0		0
+34136	36490	C	FA1	agua sí la vaca está tomando agua	7	aag-wax- ehs- - - laa- vaek-ax- axs-teyt- - - taxm-aend-ow- aag-wax- 	17
+36770	37920	C	FA1	de acá del bebedero	4	diy- eys-iy- - - dehl- behb-axd-ehr-ow- 	10
+5378	5686	A	FA1		0		0
+14340	15320	C	FA1	a ver	2	ax- ver- 	2
+18772	19440	C	FA1	qué viste	2	kw- - - vihst- 	4
+22870	23463	C	FA1	qué viste	2	kw- - - vihst- 	4
+25620	26560	C	FA1	un caballo	2	ahn- kaeb-aal-ow- 	4
+26960	27282	C	FA1	mirá	1	mihr- - - 	3
+28400	29920	C	FA1	un caballito hace iii	4	ahn- kaeb-aal-iyt-ow- hheys- iy-ih-iy- 	9
+31380	32950	C	FA1	mm	1	ehm- ehm- 	2
+33061	33285	C	FA1	qué	1	kw- - - 	3
+447	1502	A	FA1		0		0
+110760	111393	C	FA1	es así	2	ehs- aez- - - 	4
+113251	113855	C	FA1	no	1	now- 	1
+116396	118311	C	FA1	te voy a te voy a hacer una leche rica	10	tiy- voy- ax- tiy- voy- ax- hheys-er- uwn-ax- lehsh- riyk-ax- 	13
+118810	121000	C	FA1	te gusta una leche que tuvo mosca	7	tiy- gahs-tax- uwn-ax- lehsh- kyuw- tuwv-ow- mows-kax- 	11
+98650	101843	C	FA1	no importa Cuchi te la tiramos toda la leche y hacemos otra	12	now- ihmp-aort-ax- kuwch-iy- tiy- laa- traam-ows- towd-ax- laa- lehsh- way- hheych-mowz- aat-rax- 	19
+101966	102797	C	FA1	sí hacemos otra	3	ehs- - - hheych-mowz- aat-rax- 	7
+104826	106660	C	FA1	no	1	now- 	1
+106776	109136	C	FA1	te voy a hacer una leche rica nueva	8	tiy- voy- ax- hheys-er- uwn-ax- lehsh- riyk-ax- nwehv-ax- 	12
+121706	122786	C	FA1	bueno por eso te voy a	6	bweyn-ow- paor- ehs-ow- tiy- voy- ax- 	8
+126456	128252	C	FA1	bueno Cuchi es un asco	5	bweyn-ow- kuwch-iy- ehs- ahn- axs-kow- 	8
+164602	166707	A	MC1		0		0
+159904	161403	A	MC1		0		0
+172707	174408	A	MC1		0		0
+167806	171906	A	MC1		0		0
+179893	183653	A	MC1		0		0
+175204	178403	A	MC1		0		0
+191305	196436	A	MC1		0		0
+188893	189900	A	MC1		0		0
+203246	205480	A	MC1		0		0
+197893	200000	A	MC1		0		0
+110976	112954	A	MC1		0		0
+110006	110710	A	MC1		0		0
+91393	92280	P	MC1		0		0
+109225	109792	A	MC1		0		0
+103504	106171	A	MC1		0		0
+102733	103100	A	MC1		0		0
+97930	98990	A	MC1		0		0
+240005	242707	A	MC1		0		0
+246766	247050	U	MC1		0		0
+235408	236360	A	MC1		0		0
+236490	238281	A	MC1		0		0
+224745	226403	A	MC1		0		0
+226990	228955	A	MC1		0		0
+207198	210254	A	MC1		0		0
+212756	214337	A	MC1		0		0
+248070	252966	A	MC1		0		0
+151414	153204	A	MC1		0		0
+157557	159809	A	MC1		0		0
+113603	116053	A	MC1		0		0
+121198	121508	A	MC1		0		0
+122607	126348	A	MC1		0		0
+131285	133681	A	MC1		0		0
+138211	138430	A	MC1		0		0
+141397	141707	A	MC1		0		0
+142402	144064	A	MC1		0		0
+144603	147906	A	MC1		0		0
+296635	297110	A	FA2		0		0
+293840	294213	A	FA2		0		0
+6606	8700	A	FA2		0		0
+3596	5209	A	FA2		0		0
+100726	101973	B	FA2	y eh hacemo una nueva	5	way- eh- hheych-eym-ow- uwn-ax- nwehv-ax- 	9
+226714	227210	C	FA2		0		0
+221650	222340	U	FA2		0		0
+184103	184911	C	FA2	sí ya está	3	ehs- - - yaa- axs-teyt- - - 	8
+171520	172053	C	FA2	te lo lavo	3	tiy- low- laav-ow- 	4
+166893	167906	C	FA2	ah bueno el vaso	4	aa- bweyn-ow- ehl- vaas-ow- 	6
+153292	153603	C	FA2	si	1	siy- 	1
+140271	140756	C	FA2	la ves ahí	3	laa- vz- aa- - - 	5
+294632	295632	A	FA2		0		0
+300972	301510	A	FA2		0		0
+135602	135806	A	FA2		0		0
+138812	139408	C	FA2		0		0
+116311	116820	C	FA2	acá hay más	3	eys-iy- - - hhey- ehm- - - ehs- 	9
+118060	119030	C	FA2	una leche nueva	3	uwn-ax- lehsh- nwehv-ax- 	5
+121800	122460	U	FA2		0		0
+128880	129740	C	FA2	mirá	1	mihr- - - 	3
+109240	109720	C	FA2	no no	2	now- now- 	2
+113890	114500	C	FA2	no	1	now- 	1
+115120	115560	C	FA2	ahí mirá	2	aa- - - mihr- - - 	6
+115560	116166	C	FA2	acá hay más	3	eys-iy- - - hhey- ehm- - - ehs- 	9
+228640	229940	C	FA2	bueno ahí cierro la ventana	5	bweyn-ow- aa- - - chihr-ow- laa- vehnt-aen-ax- 	11
+97397	97917	A	FA2		0		0
+297298	298458	A	FA2		0		0

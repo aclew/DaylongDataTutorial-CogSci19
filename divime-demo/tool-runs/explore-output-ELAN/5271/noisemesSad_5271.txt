@@ -1,0 +1,14 @@
+SPEAKER,5271,1,33.1,2.8,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,91.5,0.5,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,126.6,0.3,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,181.0,0.1,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,181.3,0.6,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,182.1,0.8,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,194.5,0.8,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,197.8,0.6,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,205.3,0.6,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,263.8,0.8,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,268.4,2.1,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,271.6,0.6,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,273.1,0.7,<NA>,<NA>,speech,<NA>
+SPEAKER,5271,1,274.8,0.8,<NA>,<NA>,speech,<NA>
