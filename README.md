@@ -16,7 +16,7 @@ Several of the central questions in language, social cognition, and developmenta
     * [Install DiViMe](https://docs.google.com/presentation/d/1G9lRAFF0TXxyy9cLzw0EpxvBeyr6H88DXhG9Sen_B7Y/edit?usp=sharing)
     * Bring a pair of headphones or earbuds
     * Optional: Bring a few raw audio/video files from your data (each <5 min) for the demo's. Make sure the clips are okay for sharing with other workshop participants!
-* Part 1: Pre-data collection concerns
+* [Part 1: Pre-data collection concerns](https://docs.google.com/presentation/d/13ZvPd0zBQbsxZCpvG1qjKUvDIhtL5qBDsLxPBSVeOMk/edit#slide=id.g5da590e4ea_0_34)
 * Part 2: Manual annotation
 * [Part 3: Automated annotation](https://docs.google.com/presentation/d/1TX18Rwt6ZIaeUBGbRNCDbAE-k1IQScsw5GBzViCr3Js/edit?usp=sharing)
 * [Part 4: Archiving and community](https://docs.google.com/presentation/d/1etR-B1jCJKGp8Hua150bYWu_BnpV4M5BHIEGbTA8Y8s/edit?usp=sharing)
