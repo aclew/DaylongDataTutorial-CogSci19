@@ -34,6 +34,9 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>33.0</Float>
+    </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>0</Int>
     </pref>
@@ -80,27 +83,30 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>0</Long>
+        <Long>9645</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>33.0</Float>
+    </pref>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1919,1053</Object>
+        <Object class="java.awt.Dimension">1280,773</Object>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///Users/marcas/Documents/Github/DiViMe/data/CogSciTutorial/5271.wav</String>
+            <String>///Users/mctice/Documents/Academic/Git-Projects/DaylongDataTutorial-CogSci19/divime-demo/tool-runs/5271.wav</String>
         </pref>
     </prefGroup>
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>noisemes</String>
+        <String>tocombo</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">

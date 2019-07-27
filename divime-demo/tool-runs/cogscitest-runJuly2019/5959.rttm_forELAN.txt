@@ -1,0 +1,116 @@
+CHI-wce,CHI,1.7,0.2,0
+FEM-wce,FEM,1.9,0.7,0
+MAL-wce,MAL,2.6,1.1,3
+CHI-wce,CHI,5.4,1.3,1
+MAL-wce,MAL,7.4,0.6,0
+CHI-wce,CHI,8.9,0.8,0
+FEM-wce,FEM,9.7,0.2,0
+MAL-wce,MAL,10.6,0.2,0
+FEM-wce,FEM,10.8,0.2,0
+MAL-wce,MAL,11.0,0.1,0
+FEM-wce,FEM,12.5,2.0,4
+FEM-wce,FEM,28.6,0.5,1
+MAL-wce,MAL,36.8,0.1,0
+CHI-wce,CHI,36.9,0.3,0
+CHI-wce,CHI,40.7,0.1,0
+CHI-wce,CHI,41.2,0.1,0
+CHI-wce,CHI,51.5,0.1,0
+CHI-wce,CHI,52.9,0.3,0
+FEM-wce,FEM,54.8,0.1,0
+MAL-wce,MAL,58.5,1.0,1
+MAL-wce,MAL,61.1,1.2,5
+MAL-wce,MAL,67.4,0.9,2
+CHI-wce,CHI,74.0,1.1,1
+FEM-wce,FEM,76.1,1.0,1
+FEM-wce,FEM,77.6,1.3,3
+CHI-wce,CHI,81.0,1.0,2
+CHI-wce,CHI,84.3,0.9,1
+CHI-wce,CHI,86.5,1.0,1
+FEM-wce,FEM,88.5,1.1,2
+MAL-wce,MAL,90.6,2.9,5
+CHI-wce,CHI,93.5,0.3,0
+CHI-wce,CHI,95.4,0.3,1
+CHI-wce,CHI,96.7,0.6,0
+CHI-wce,CHI,98.3,1.1,1
+CHI-wce,CHI,101.2,1.0,0
+CHI-wce,CHI,103.0,1.2,2
+MAL-wce,MAL,105.0,0.1,0
+MAL-wce,MAL,105.2,0.3,0
+MAL-wce,MAL,106.3,0.3,1
+FEM-wce,FEM,123.1,0.4,1
+MAL-wce,MAL,157.8,0.6,1
+FEM-wce,FEM,167.9,0.4,0
+FEM-wce,FEM,169.6,0.7,4
+FEM-wce,FEM,170.8,0.7,1
+CHI-wce,CHI,171.9,0.1,1
+FEM-wce,FEM,172.0,1.1,5
+FEM-wce,FEM,180.6,0.9,0
+MAL-wce,MAL,181.5,0.2,0
+FEM-wce,FEM,183.6,0.8,2
+MAL-wce,MAL,186.6,1.7,3
+MAL-wce,MAL,190.3,0.4,2
+FEM-wce,FEM,192.7,0.9,0
+MAL-wce,MAL,195.2,0.4,1
+FEM-wce,FEM,198.0,0.6,2
+FEM-wce,FEM,199.7,1.4,3
+CHI-wce,CHI,202.6,2.9,0
+FEM-wce,FEM,206.2,0.9,1
+FEM-wce,FEM,207.7,2.1,6
+FEM-wce,FEM,210.5,1.9,4
+FEM-wce,FEM,213.1,0.9,1
+FEM-wce,FEM,218.2,0.2,0
+FEM-wce,FEM,219.3,0.3,1
+FEM-wce,FEM,222.1,0.9,1
+FEM-wce,FEM,223.7,1.6,6
+FEM-wce,FEM,225.4,0.1,0
+FEM-wce,FEM,228.1,3.0,9
+FEM-wce,FEM,232.2,0.3,0
+FEM-wce,FEM,232.6,1.5,1
+MAL-wce,MAL,234.3,0.3,1
+FEM-wce,FEM,237.1,0.5,1
+FEM-wce,FEM,239.2,0.9,2
+FEM-wce,FEM,240.9,1.1,5
+FEM-wce,FEM,243.7,0.6,1
+FEM-wce,FEM,245.4,1.2,5
+FEM-wce,FEM,252.9,0.1,1
+FEM-wce,FEM,253.4,1.2,3
+MAL-wce,MAL,254.6,0.2,0
+FEM-wce,FEM,255.8,1.6,7
+MAL-wce,MAL,257.7,2.5,7
+MAL-wce,MAL,261.6,1.5,3
+MAL-wce,MAL,266.9,5.5,17
+MAL-wce,MAL,274.4,2.4,4
+MAL-wce,MAL,277.2,1.0,4
+CHI-wce,CHI,282.7,1.4,3
+CHI-wce,CHI,284.3,0.8,0
+CHI-wce,CHI,286.2,0.3,0
+CHI-wce,CHI,287.8,0.9,2
+FEM-wce,FEM,289.9,1.6,3
+MAL-wce,MAL,291.5,2.0,5
+MAL-wce,MAL,294.7,2.9,9
+MAL-wce,MAL,299.4,0.5,2
+FEM-wce,FEM,299.9,0.2,1
+CHI-vcm,CHI,1.7,0.2,vcm@ N
+CHI-vcm,CHI,5.4,1.3,vcm@ N
+CHI-vcm,CHI,8.9,0.8,vcm@ CRY
+CHI-vcm,CHI,36.9,0.3,vcm@ N
+CHI-vcm,CHI,40.7,0.1,vcm@ N
+CHI-vcm,CHI,41.2,0.1,vcm@ N
+CHI-vcm,CHI,51.5,0.1,vcm@ N
+CHI-vcm,CHI,52.9,0.3,vcm@ C
+CHI-vcm,CHI,74.0,1.1,vcm@ C
+CHI-vcm,CHI,81.0,1.0,vcm@ N
+CHI-vcm,CHI,84.3,0.9,vcm@ C
+CHI-vcm,CHI,86.5,1.0,vcm@ C
+CHI-vcm,CHI,93.5,0.3,vcm@ N
+CHI-vcm,CHI,95.4,0.3,vcm@ N
+CHI-vcm,CHI,96.7,0.6,vcm@ N
+CHI-vcm,CHI,98.3,1.1,vcm@ CRY
+CHI-vcm,CHI,101.2,1.0,vcm@ N
+CHI-vcm,CHI,103.0,1.2,vcm@ N
+CHI-vcm,CHI,171.9,0.1,vcm@ N
+CHI-vcm,CHI,202.6,2.9,vcm@ N
+CHI-vcm,CHI,282.7,1.4,vcm@ CRY
+CHI-vcm,CHI,284.3,0.8,vcm@ N
+CHI-vcm,CHI,286.2,0.3,vcm@ N
+CHI-vcm,CHI,287.8,0.9,vcm@ N
